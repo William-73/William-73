@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @William-73
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end and back-end
-- 💞️ I’m looking to collaborate on web developers
+- 💞️ I’m looking to collaborate with web developers
 - 📫 How to reach me:
     mail: williamzheng73@gmail.com
-    discord: W1LL14M#2510
+    discord: WZ#4045
 
 <!---
 William-73/William-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
