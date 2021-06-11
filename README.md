@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with web developers
 - 📫 How to reach me:
     mail: williamzheng73@gmail.com
-    discord: WZ#4045
+    discord: WZ#7300
 
 <!---
 William-73/William-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
